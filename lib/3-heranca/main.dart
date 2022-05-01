@@ -1,4 +1,3 @@
-import 'package:dart_poo/3-heranca/dog.dart';
 import 'package:dart_poo/3-heranca/heranca_covariante/banana.dart';
 import 'package:dart_poo/3-heranca/heranca_covariante/fruta.dart';
 import 'package:dart_poo/3-heranca/heranca_covariante/humano.dart';
