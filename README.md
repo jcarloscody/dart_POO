@@ -19,7 +19,7 @@ Tipos de paradigmas:
 
 E Orientado a Objeto
 - Podemos resumir este paradigma em 4 palavras: classe, atributo, método e objeto
-- Com este paradigma se busca uma aproximação entre o mundo real e o abstrato. Ela parte do princípio que tudo é objeto.
+- Com este paradigma se busca uma aproximação entre o mundo real e o abstrato. Ele parte do princípio que tudo é objeto.
 - E não podemos nos esquecer dos 4 pilares deste paradigma, quais sejam:
   - Encapsulamento
   - Herança
