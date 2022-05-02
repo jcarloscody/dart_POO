@@ -1,4 +1,4 @@
-# Paradigma Orientada a Objetos
+# Paradigma Orientado a Objetos
 
 O que é paradigma?
 - são metodologias que usamos para alcançar um determinado objeto na programação.
