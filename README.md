@@ -6,7 +6,6 @@ O que é paradigma?
 Tipos de paradigmas:
 - Imperativo ou procedural "como"
   - Podemos compreender este paradigma como se fosse uma receita ou uma bula dando instruções passo a passo. Em suma, por este modo o programador deve descrever detalhadamente o que a máquina deve fazer.
-- Orientado a Objetos
 - Orientado a Eventos
   - Neste as funções ficam as mercês dos eventos disparados pelo usuário.
 - Funcional
@@ -17,6 +16,25 @@ Tipos de paradigmas:
   - Aqui os resultados obtidos são por meio da análise lógico-matemáticas.
 - Paralela
   - Para chegar no objetivo desejado é usado vários computadores para trabalhar simultaneamente
+
+E Orientado a Objeto
+- Podemos resumir este paradigma em 4 palavras: classe, atributo, método e objeto
+- Com este paradigma se busca uma aproximação entre o mundo real e o abstrato. Ela parte do princípio que tudo é objeto.
+
+
+Este repositório tem a finalidade de mostrar o paradigma Orientado a Objetos aplicado a linguagem Dart.
+
+
+
+Instalação do Dart
+> https://dart.dev/get-dart
+
+Comandos para resolver as dependências:
+> dart pub get
+
+Quando entrar na página respectiva
+> dart nomeDoArquivo.dart
+
 
 
 | Link | Descrição |
