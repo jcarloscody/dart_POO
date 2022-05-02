@@ -1,3 +1,12 @@
+# Paradigma Orientada a Objetos
+
+O que é paradigma?
+- são metodologias que usamos para alcançar um determinado objeto na programação.
+
+Tipos de paradigmas:
+- Imperativo ou procedural
+> podemos compreender este paradigma como se fosse uma receita ou uma bula dando instruções passo a passo. Em suma, por este modo o programador deve descrever detalhadamente o que a máquina deve fazer.
+
 
 | Link | Descrição |
 | ------- | -------- |
@@ -5,25 +14,25 @@
 | [Class] | O que é uma classe? |
 | [Herança] | O que é herança? |
 | [Associação] | Compreendenco uma associação |
-| [Polimorfismo] |  |
-| [Interfaces] |  |
-| [Auto Promoção] |  |
-| [Mixin] |  |
-| [Cascade Notation] |  |
-| [Callable Class] |  |
-| [Operator Methods] |  |
-| [Assignment Operator] |  |
-| [Equal HashCode toString] |  |
-| [Ordenação Default] |  |
-| [Asserts] |  |
-| [Modificadores] |  |
-| [Extensions] |  |
-| [Anotações] |  |
-| [Get Set] |  |
-| [Constructor Tear Off] |  |
-| [Tipos Genéricos] |  |
-| [Part of] |  |
-| [Casting] |  |
+| [Polimorfismo] | As várias formas de uma representação  @override |
+| [Interfaces] | Compreendendo uma classe abstrata e uma Interface |
+| [Auto Promoção] | Um casting de Objeto |
+| [Mixin] | Era uma vez uma multipla herança |
+| [Cascade Notation] | Um atalho |
+| [Callable Class] | Um objeto como função? |
+| [Operator Methods] | Operadores |
+| [Assignment Operator] | Um atalho para previnir variáveis nulas |
+| [Equal HashCode toString] | Como comparar objetos? |
+| [Ordenação Default] | Numa lista como comparar por padrão? |
+| [Asserts] | Uma forma de Validar atributos em um construtor |
+| [Modificadores] | Efeito de const num construtor |
+| [Extensions] | Supimpa! Adicionando uma função a uma classe sem mesmo conhece-la |
+| [Anotações] | Os metadados |
+| [Get Set] | Métodos de atributos |
+| [Constructor Tear Off] | Passando um construtor dentro de funções |
+| [Tipos Genéricos] | Possibilitando uma multifunção para uma única classe |
+| [Part of] | Fracionando as Classes  |
+| [Casting] | Converter |
 
 
 

@@ -1,5 +1,6 @@
 void main() {
   //extensions: é a possibilidade de adicionar funcoes dentro de classes que nao tem codigo fontes.
+  //parece com o prototype do JavaScript
   var nome = "josee";
 
   print(nome.digaOla());
