@@ -5,7 +5,7 @@ O que é paradigma?
 
 Tipos de paradigmas:
 - Imperativo ou procedural
- - > podemos compreender este paradigma como se fosse uma receita ou uma bula dando instruções passo a passo. Em suma, por este modo o programador deve descrever detalhadamente o que a máquina deve fazer.
+> podemos compreender este paradigma como se fosse uma receita ou uma bula dando instruções passo a passo. Em suma, por este modo o programador deve descrever detalhadamente o que a máquina deve fazer.
 
 
 | Link | Descrição |
