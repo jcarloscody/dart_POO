@@ -27,7 +27,7 @@ E Orientado a Objeto
   - Abstração
 
 
-Este repositório tem a finalidade de mostrar o paradigma Orientado a Objetos aplicado a linguagem Dart.
+Este repositório tem a finalidade de mostrar o paradigma Orientado a Objetos aplicado na linguagem Dart.
 
 
 
