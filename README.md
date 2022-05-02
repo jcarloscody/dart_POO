@@ -5,18 +5,18 @@ O que é paradigma?
 
 Tipos de paradigmas:
 - Imperativo ou procedural "como"
-> Podemos compreender este paradigma como se fosse uma receita ou uma bula dando instruções passo a passo. Em suma, por este modo o programador deve descrever detalhadamente o que a máquina deve fazer.
+  - Podemos compreender este paradigma como se fosse uma receita ou uma bula dando instruções passo a passo. Em suma, por este modo o programador deve descrever detalhadamente o que a máquina deve fazer.
 - Orientado a Objetos
 - Orientado a Eventos
-> Neste as funções ficam as mercês dos eventos disparados pelo usuário.
+  - Neste as funções ficam as mercês dos eventos disparados pelo usuário.
 - Funcional
-> O uso das funções são destadas majoritariamente na hora de resolver os problemas.
+  - O uso das funções são destadas majoritariamente na hora de resolver os problemas.
 - Declarativo "o que"
-> Aqui os resultados são sempre os mesmos após as interações
+  - Aqui os resultados são sempre os mesmos após as interações
 - Lógico
-> Aqui os resultados obtidos são por meio da análise lógico-matemáticas.
+  - Aqui os resultados obtidos são por meio da análise lógico-matemáticas.
 - Paralela
-> Para chegar no objetivo desejado é usado vários computadores para trabalhar simultaneamente
+  - Para chegar no objetivo desejado é usado vários computadores para trabalhar simultaneamente
 
 
 | Link | Descrição |
