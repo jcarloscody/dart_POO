@@ -1,7 +1,7 @@
-import 'package:dart_poo/3-heranca/heranca_covariante/banana.dart';
-import 'package:dart_poo/3-heranca/heranca_covariante/fruta.dart';
-import 'package:dart_poo/3-heranca/heranca_covariante/humano.dart';
-import 'package:dart_poo/3-heranca/heranca_covariante/macaco.dart';
+import 'heranca_covariante/banana.dart';
+import 'heranca_covariante/fruta.dart';
+import 'heranca_covariante/humano.dart';
+import 'heranca_covariante/macaco.dart';
 
 void main() {
   final h = Humano();

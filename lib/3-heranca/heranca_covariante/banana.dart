@@ -1,4 +1,4 @@
-import 'package:dart_poo/3-heranca/heranca_covariante/fruta.dart';
+import 'fruta.dart';
 
 class Banana extends Fruta {
   @override

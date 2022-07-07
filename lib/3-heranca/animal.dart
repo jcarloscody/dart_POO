@@ -1,4 +1,4 @@
-import 'package:dart_poo/3-heranca/super_animal.dart';
+import 'super_animal.dart';
 
 class Animal extends SuperAnimal {
   int? idade;

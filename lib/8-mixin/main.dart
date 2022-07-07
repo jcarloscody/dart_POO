@@ -1,5 +1,6 @@
-import 'package:dart_poo/2-class/carro.class.dart';
-import 'package:dart_poo/4-associacao/pessoa.dart';
+import 'dart:ffi';
+
+import '../6-interfaces/main.dart';
 
 void main() {
   //mixin é a forma q inventaram aqui no dart de fazer heranças multíplas.
@@ -9,7 +10,24 @@ void main() {
 }
 
 //mixin fica depois do extends e antes do implements
-class Josue extends Pessoa with Dancar, MixinQ implements Q {}
+class Josue extends Pessoa with Dancar, MixinQ implements Q {
+  @override
+  String address;
+
+  @override
+  String nome;
+
+  @override
+  void andar() {
+    // TODO: implement andar
+  }
+
+  @override
+  Double voar() {
+    // TODO: implement voar
+    throw UnimplementedError();
+  }
+}
 
 abstract class Q {}
 

@@ -1,5 +1,5 @@
-import 'package:dart_poo/3-heranca/heranca_covariante/fruta.dart';
-import 'package:dart_poo/3-heranca/heranca_covariante/mamifero.dart';
+import 'fruta.dart';
+import 'mamifero.dart';
 
 class Humano extends Mamifero {
   @override
