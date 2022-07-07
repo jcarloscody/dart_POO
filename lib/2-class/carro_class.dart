@@ -1,8 +1,11 @@
 class Carro {
+  // OBS: no dart nao temos atributos protected
+  //atributo privado. não que seja aconselhavel fazer, porém os privados são acessados dentro do mesmo arquivo
   final String _cor;
   int _nPortas; //nao pode ser null então deve ser inicializada
   final bool? vidroEletrico; //final deve ser inicializada
-  static bool eCaro = false;
+  static bool eCaro =
+      false; //atributo de classe, pq nao precisa de instância, da mesma forma temos os metodos de classe
   String? modoDirecao;
   late String nome; //o late sobrescreve qq outra regra.
 
@@ -42,6 +45,6 @@ class Carro {
 }
 
 void main() {
-  var c = new Carro(cor: "cor", nPortas: 5);
+  var c = Carro(cor: "cor", nPortas: 5);
   c._cor; //dentro de mesmo arquivo acesso atributos encapsulados
 }
