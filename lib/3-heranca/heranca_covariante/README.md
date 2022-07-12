@@ -7,7 +7,7 @@ Aqui temos:
 - Classe abstrata pai: 
   - Mamifero
   - Classes Filhas:
-    - Humano
+    - Humano (recebe no metodo um objeto fruta ou filha de fruta)
     - Macaco
 
 - Classe Pai:
