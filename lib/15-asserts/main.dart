@@ -1,5 +1,5 @@
 void main() {
-  //asserts: é uma afirmação, e com ele podemos fazer algumas verificações em tempo de dev. o objetivo é colocar uma validação nos atributos de uma class.
+  //asserts: é uma afirmação, é uma validacao,  e com ele podemos fazer algumas verificações em tempo de dev. o objetivo é colocar uma validação nos atributos de uma class.
   var c = Cliente();
 }
 

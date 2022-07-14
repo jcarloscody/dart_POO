@@ -3,6 +3,8 @@ void main() {
   var c2 = Cliente("lk");
 
   var l = [c, c2];
+  l.sort();
+  l.sort(((a, b) => a.nome.compareTo(b.nome)));
 }
 
 class Cliente implements Comparable<Cliente> {

@@ -1,12 +1,13 @@
 void main() {
-  //callabla class nada mais é do q criar uma class e chama la como uma funcao
+  //callable class nada mais é do q criar uma class e chama la como uma funcao
   var j = Josue();
 
-  j();
+  j(); //callable acionada
 }
 
 class Josue {
   void call() {
+    //metodo que será executado quando a callable for acionada
     print("met call");
     return andar();
   }
