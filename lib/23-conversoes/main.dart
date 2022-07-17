@@ -5,7 +5,7 @@ void main() {
     Fruta("laranja"),
   ];
 
-  var l1 = l.map((e) => Suco(e.nome));
+  var l1 = l.map((e) => Suco(e.nome)).toList();
 
   var listaDF = {
     "fruta": "maasça",
