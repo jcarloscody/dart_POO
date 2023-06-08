@@ -4,7 +4,9 @@ class Animal extends SuperAnimal {
   int? idade;
   String? cor;
 
-  Animal({required String enderco}) : super(address: enderco);
+  Animal({required String enderco, required int age})
+      : idade = age,
+        super(address: enderco);
 
   @override
   String getNome() {

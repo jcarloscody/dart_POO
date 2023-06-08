@@ -6,7 +6,9 @@ void main() {
   var n = Numero(10);
   var nn = Numero(20);
   var s = n + nn;
+  var ss = n - nn;
   print(s.i);
+  print(ss.i);
 }
 
 //vamos criar o nosso method
@@ -16,5 +18,9 @@ class Numero {
 
   Numero operator +(Numero numero2) {
     return Numero(i + numero2.i);
+  }
+
+  Numero operator -(Numero numero2) {
+    return Numero(i - numero2.i);
   }
 }

@@ -1,9 +1,13 @@
 void main() {
-  var c = Cliente("nome");
+  var c = Cliente("zome");
   var c2 = Cliente("lk");
+  var c3 = Cliente("wk");
 
-  var l = [c, c2];
+  var l = [c, c2, c3];
   l.sort();
+  l.forEach((element) {
+    print(element.nome);
+  });
   l.sort(((a, b) => a.nome.compareTo(b.nome)));
 }
 

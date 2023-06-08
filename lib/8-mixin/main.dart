@@ -35,7 +35,7 @@ class Josue extends Pessoa with Dancar, MixinQ implements Q {
 
 abstract class Q {}
 
-class Gol extends Carro with MixinQ, MixinNormal {
+class Gol extends Carro with MixinQ implements MixinNormal {
   //esta dando erro pq o mixin está extendendo outra class, aí seria uma herança multipla.
   Gol(String cor, int n);
 }

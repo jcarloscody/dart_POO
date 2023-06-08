@@ -1,7 +1,7 @@
 import 'animal.dart';
 
 class Dog extends Animal {
-  Dog(String end) : super(enderco: end);
+  Dog(String end, {required int age}) : super(enderco: end, age: age);
 
   @override
   String getNome() {

@@ -2,7 +2,7 @@ import 'dart:ffi';
 
 void main() {}
 
-//abstract class - pode tem metodos implementados
+//abstract class - pode ter metodos implementados
 abstract class Carro {
   void velocidadeMaxima() {
     print("metodo implementado - abstract class");
