@@ -1,3 +1,5 @@
+import 'dart:math';
+
 //obs: part deve estar após os imports
 part 'endereco.dart'; //está declarando que a class a seguir possui parte(s) em outro arquivo
 //é como se o dart colasse a outra class aqui
